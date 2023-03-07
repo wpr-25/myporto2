@@ -24,7 +24,7 @@ export default function Contact() {
 
                 <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Email</h2>
                 <p class="mt-2 text-gray-500 dark:text-gray-400">Our friendly team is here to help.</p>
-                <p class="mt-2 text-blue-500 dark:text-blue-400">hello@merakiui.com</p>
+                <p class="mt-2 text-blue-500 dark:text-blue-400">willy.ok1025@gmail.com</p>
             </div>
 
             <div>
@@ -37,9 +37,9 @@ export default function Contact() {
                     </svg>
                 </span>
 
-                <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Office</h2>
-                <p class="mt-2 text-gray-500 dark:text-gray-400">Come say hello at our office HQ.</p>
-                <p class="mt-2 text-blue-500 dark:text-blue-400">100 Smith Street Collingwood VIC 3066 AU</p>
+                <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Place</h2>
+                <p class="mt-2 text-gray-500 dark:text-gray-400">Karawang</p>
+                <p class="mt-2 text-blue-500 dark:text-blue-400">Jawa Barat</p>
             </div>
 
             <div>
@@ -52,8 +52,8 @@ export default function Contact() {
                 </span>
 
                 <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Phone</h2>
-                <p class="mt-2 text-gray-500 dark:text-gray-400">Mon-Fri from 8am to 5pm.</p>
-                <p class="mt-2 text-blue-500 dark:text-blue-400">+1 (555) 000-0000</p>
+                <p class="mt-2 text-gray-500 dark:text-gray-400">24/7</p>
+                <p class="mt-2 text-blue-500 dark:text-blue-400">+62 851 5695 1083</p>
             </div>
         </div>
     </div>
