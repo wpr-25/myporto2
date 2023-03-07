@@ -2,19 +2,19 @@ export default function Contact() {
     return (
         <div>
             <div className="max-w-7xl mx-auto">
-            <section class="bg-white dark:bg-gray-900">
-    <div class="container px-6 py-12 mx-auto">
+            <section className="bg-white dark:bg-gray-900">
+    <div className="container px-6 py-12 mx-auto">
         <div>
-            <p class="font-medium text-blue-500 dark:text-blue-400">Contact us</p>
+            <p className="font-medium text-blue-500 dark:text-blue-400">Contact us</p>
 
-            <h1 class="mt-2 text-2xl font-semibold text-gray-800 md:text-3xl dark:text-white">Get in touch</h1>
+            <h1 className="mt-2 text-2xl font-semibold text-gray-800 md:text-3xl dark:text-white">Get in touch</h1>
 
-            <p class="mt-3 text-gray-500 dark:text-gray-400">Our friendly team is always here to chat.</p>
+            <p className="mt-3 text-gray-500 dark:text-gray-400">Our friendly team is always here to chat.</p>
         </div>
 
-        <div class="grid grid-cols-1 gap-12 mt-10 md:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-12 mt-10 md:grid-cols-2 lg:grid-cols-3">
             <div>
-                <span class="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
+                <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round"
@@ -22,13 +22,13 @@ export default function Contact() {
                     </svg>
                 </span>
 
-                <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Email</h2>
-                <p class="mt-2 text-gray-500 dark:text-gray-400">Our friendly team is here to help.</p>
-                <p class="mt-2 text-blue-500 dark:text-blue-400">willy.ok1025@gmail.com</p>
+                <h2 className="mt-4 text-lg font-medium text-gray-800 dark:text-white">Email</h2>
+                <p className="mt-2 text-gray-500 dark:text-gray-400">Our friendly team is here to help.</p>
+                <p className="mt-2 text-blue-500 dark:text-blue-400">willy.ok1025@gmail.com</p>
             </div>
 
             <div>
-                <span class="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
+                <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -37,9 +37,9 @@ export default function Contact() {
                     </svg>
                 </span>
 
-                <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Place</h2>
-                <p class="mt-2 text-gray-500 dark:text-gray-400">Karawang</p>
-                <p class="mt-2 text-blue-500 dark:text-blue-400">Jawa Barat</p>
+                <h2 className="mt-4 text-lg font-medium text-gray-800 dark:text-white">Place</h2>
+                <p className="mt-2 text-gray-500 dark:text-gray-400">Karawang</p>
+                <p className="mt-2 text-blue-500 dark:text-blue-400">Jawa Barat</p>
             </div>
 
             <div>
@@ -51,9 +51,9 @@ export default function Contact() {
                     </svg>
                 </span>
 
-                <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Phone</h2>
-                <p class="mt-2 text-gray-500 dark:text-gray-400">24/7</p>
-                <p class="mt-2 text-blue-500 dark:text-blue-400">+62 851 5695 1083</p>
+                <h2 className="mt-4 text-lg font-medium text-gray-800 dark:text-white">Phone</h2>
+                <p className="mt-2 text-gray-500 dark:text-gray-400">24/7</p>
+                <p className="mt-2 text-blue-500 dark:text-blue-400">+62 851 5695 1083</p>
             </div>
         </div>
     </div>
