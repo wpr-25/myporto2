@@ -8,8 +8,8 @@ export default function Footer() {
             <footer class="bg-white dark:bg-gray-900">
     <div class="container px-6 py-8 mx-auto">
         <div class="flex flex-col items-center text-center">
-            <Link href="#">
-                <img class="w-auto h-7" src="https://cdn-icons-png.flaticon.com/512/3884/3884851.png" alt=""/>
+            <Link href="/">
+                <img class="w-auto h-7" src="https://cdn-icons-png.flaticon.com/512/3884/3884851.png" alt="porto3"/>
             </Link>
 
             <p class="max-w-md mx-auto mt-4 text-gray-500 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>

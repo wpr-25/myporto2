@@ -25,7 +25,7 @@ export default function NavbarBasicPreview() {
               aria-current="page"
               className="flex items-center gap-2 whitespace-nowrap py-3 text-lg focus:outline-none lg:flex-1"
               href="/"
-            ><img src="https://cdn-icons-png.flaticon.com/512/3884/3884851.png" className="h-10 w-10"/>
+            ><img src="https://cdn-icons-png.flaticon.com/512/3884/3884851.png" className="h-10 w-10" alt="porto2"/>
            
             </Link>
             {/*      <!-- Mobile trigger --> */}
